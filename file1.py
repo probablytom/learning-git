@@ -1,7 +1,7 @@
 def someFunction():
     print("THE BEST FUNCTION")
 
-def anotherFunction():
+def worstFunction():
     print("the second function")
 
 if __name__ == "__main__":
