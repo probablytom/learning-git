@@ -1,5 +1,5 @@
 def someFunction():
-    print("the first function")
+    print("THE BEST FUNCTION")
 
 def anotherFunction():
     print("the second function")
